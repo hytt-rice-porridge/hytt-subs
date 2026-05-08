@@ -10,7 +10,7 @@
   "was_live": false,
   "hytt": {
     "version": "0.1.0",
-    "commit": "33654831fb373001b006c89ef2f19cfd2b791f68",
+    "commit": "6d2d4fcdb041327a9152c3ef288b745ece756096",
     "command": "hytt 'https://www.youtube.com/watch?v=aIs58c47u9I' -s ja -t en",
     "source_language": "ja",
     "target_language": "en",
@@ -18,21 +18,22 @@
     "transcription_model": "ggml-large-v3.bin",
     "vad_model": "ggml-silero-v6.2.0.bin",
     "status": "done",
+    "completed_on": "2026-05-08T22:04:11.946Z",
     "error": null,
-    "total_duration_ms": 22247,
+    "total_duration_ms": 19510,
     "auto_context_used": true,
     "translation_model": "claude-sonnet-4-6",
     "token_usage": {
-      "input_tokens": 1526,
-      "output_tokens": 236,
+      "input_tokens": 1541,
+      "output_tokens": 232,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
-      "actual_usd": 0.008118
+      "actual_usd": 0.008103
     },
     "token_estimate": {
-      "low_usd": 0.0060558750000000005,
-      "midpoint_usd": 0.008651250000000001,
-      "high_usd": 0.012111750000000001
+      "low_usd": 0.0060585,
+      "midpoint_usd": 0.008655,
+      "high_usd": 0.012117
     }
   }
 }
