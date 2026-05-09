@@ -1,0 +1,25 @@
+{
+  "id": "ZlWszXlcUpk",
+  "title": "【８番出口】新異変追加！異変を見逃さないこと、異変をみつけたら引き返すこと・・・劇場版公開！！【尾丸ポルカ/ホロライブ】",
+  "channel": "Polka Ch. 尾丸ポルカ",
+  "uploader": "Polka Ch. 尾丸ポルカ",
+  "url": "https://www.youtube.com/watch?v=ZlWszXlcUpk",
+  "upload_date": "2025-09-02",
+  "video_language": "ja",
+  "duration_s": 5360,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": "b2c0a8238cfcc7fb376a566749239cca7c29109c",
+    "command": "hytt 'https://www.youtube.com/watch?v=ZlWszXlcUpk' -s ja -t en",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": true,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-05-09T04:01:17.005Z",
+    "error": null,
+    "total_duration_ms": 1116382
+  }
+}
