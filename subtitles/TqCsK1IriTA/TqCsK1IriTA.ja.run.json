@@ -1,0 +1,25 @@
+{
+  "id": "TqCsK1IriTA",
+  "title": "【A WAY OUT】みっころねは脱獄する【ホロライブ/さくらみこ/戌神ころね】",
+  "channel": "Miko Ch. さくらみこ",
+  "uploader": "Miko Ch. さくらみこ",
+  "url": "https://www.youtube.com/watch?v=TqCsK1IriTA",
+  "upload_date": "2021-01-04",
+  "video_language": "ja",
+  "duration_s": 7444,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+    "command": "hytt 'https://www.youtube.com/watch?v=TqCsK1IriTA' -s ja -t en --cookies-from-browser chrome -o /Users/benpyrik/Desktop/git/hytt-rice-porridge/korone-streams",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": false,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-05-09T06:21:19.448Z",
+    "error": null,
+    "total_duration_ms": 2121062
+  }
+}
