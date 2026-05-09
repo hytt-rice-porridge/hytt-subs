@@ -18,22 +18,22 @@
     "transcription_model": "ggml-large-v3.bin",
     "vad_model": "ggml-silero-v6.2.0.bin",
     "status": "done",
-    "completed_on": "2026-05-09T03:07:32.107Z",
+    "completed_on": "2026-05-09T04:51:14.380Z",
     "error": null,
-    "total_duration_ms": 2585955,
+    "total_duration_ms": 2412917,
     "auto_context_used": true,
     "translation_model": "claude-sonnet-4-6",
     "token_usage": {
-      "input_tokens": 58921,
-      "output_tokens": 43359,
-      "cache_creation_input_tokens": 3422,
-      "cache_read_input_tokens": 102660,
-      "actual_usd": 0.8707785
+      "input_tokens": 54880,
+      "output_tokens": 44021,
+      "cache_creation_input_tokens": 4211,
+      "cache_read_input_tokens": 126330,
+      "actual_usd": 0.87864525
     },
     "token_estimate": {
-      "low_usd": 0.6723696,
-      "midpoint_usd": 0.960528,
-      "high_usd": 1.3447392
+      "low_usd": 0.640698975,
+      "midpoint_usd": 0.91528425,
+      "high_usd": 1.28139795
     }
   }
 }
