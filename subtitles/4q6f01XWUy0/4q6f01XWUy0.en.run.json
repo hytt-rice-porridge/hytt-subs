@@ -1,0 +1,39 @@
+{
+  "id": "4q6f01XWUy0",
+  "title": "【#みっころね】一緒につぐのひ…やろ…？【罰ゲームだけど楽しみなやつ】",
+  "channel": "Korone Ch. 戌神ころね",
+  "uploader": "Korone Ch. 戌神ころね",
+  "url": "https://www.youtube.com/watch?v=4q6f01XWUy0",
+  "upload_date": "2021-08-30",
+  "video_language": "ja",
+  "duration_s": 4190,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+    "command": "hytt 'https://www.youtube.com/watch?v=4q6f01XWUy0' -s ja -t en",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": true,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-05-09T05:31:10.248Z",
+    "error": null,
+    "total_duration_ms": 1183578,
+    "auto_context_used": true,
+    "translation_model": "claude-sonnet-4-6",
+    "token_usage": {
+      "input_tokens": 29240,
+      "output_tokens": 23990,
+      "cache_creation_input_tokens": 6332,
+      "cache_read_input_tokens": 120308,
+      "actual_usd": 0.5074074000000001
+    },
+    "token_estimate": {
+      "low_usd": 0.36733011000000004,
+      "midpoint_usd": 0.5247573000000001,
+      "high_usd": 0.7346602200000001
+    }
+  }
+}
