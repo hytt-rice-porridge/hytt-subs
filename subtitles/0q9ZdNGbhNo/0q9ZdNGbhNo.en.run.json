@@ -1,0 +1,39 @@
+{
+  "id": "0q9ZdNGbhNo",
+  "title": "【A WAY OUT】みっころねは逃亡する【ホロライブ/さくらみこ/戌神ころね】",
+  "channel": "Korone Ch. 戌神ころね",
+  "uploader": "Korone Ch. 戌神ころね",
+  "url": "https://www.youtube.com/watch?v=0q9ZdNGbhNo",
+  "upload_date": "2021-01-07",
+  "video_language": "ja",
+  "duration_s": 14030,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+    "command": "hytt 'https://www.youtube.com/watch?v=0q9ZdNGbhNo' -s ja -t en",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": true,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-05-09T21:03:24.907Z",
+    "error": null,
+    "total_duration_ms": 2713079,
+    "auto_context_used": true,
+    "translation_model": "claude-sonnet-4-6",
+    "token_usage": {
+      "input_tokens": 77965,
+      "output_tokens": 63447,
+      "cache_creation_input_tokens": 6309,
+      "cache_read_input_tokens": 315450,
+      "actual_usd": 1.30389375
+    },
+    "token_estimate": {
+      "low_usd": 0.9599992499999997,
+      "midpoint_usd": 1.3714274999999998,
+      "high_usd": 1.9199984999999995
+    }
+  }
+}
