@@ -1,0 +1,39 @@
+{
+  "id": "n3Jee11YzLM",
+  "title": "【R.E.P.O.】ころね支店だワン🐕【#ホロREPO】",
+  "channel": "Korone Ch. 戌神ころね",
+  "uploader": "Korone Ch. 戌神ころね",
+  "url": "https://www.youtube.com/watch?v=n3Jee11YzLM",
+  "upload_date": "2025-07-24",
+  "video_language": "ja",
+  "duration_s": 8916,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+    "command": "hytt 'https://www.youtube.com/watch?v=n3Jee11YzLM' -s ja -t en",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": true,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-05-12T02:44:54.722Z",
+    "error": null,
+    "total_duration_ms": 2144864,
+    "auto_context_used": true,
+    "translation_model": "claude-sonnet-4-6",
+    "token_usage": {
+      "input_tokens": 60918,
+      "output_tokens": 50289,
+      "cache_creation_input_tokens": 4879,
+      "cache_read_input_tokens": 190281,
+      "actual_usd": 1.01246955
+    },
+    "token_estimate": {
+      "low_usd": 0.736002225,
+      "midpoint_usd": 1.05143175,
+      "high_usd": 1.47200445
+    }
+  }
+}
