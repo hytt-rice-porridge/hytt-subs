@@ -1,1 +1,4 @@
 .DS_Store
+
+# hytt working files (caches, wav/mkv intermediates, repair state)
+.hytt/
