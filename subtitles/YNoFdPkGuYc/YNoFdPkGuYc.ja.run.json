@@ -1,0 +1,33 @@
+{
+  "id": "YNoFdPkGuYc",
+  "title": "【 どろぼうノーム 】ダンス終わって募集あったから来ちゃった！ぺこちゃん先輩を添えて…【 桃鈴ねね / hololive 】",
+  "channel": "Nene Ch.桃鈴ねね",
+  "uploader": "Nene Ch.桃鈴ねね",
+  "url": "https://www.youtube.com/watch?v=YNoFdPkGuYc",
+  "upload_date": "2026-06-22",
+  "video_language": "ja",
+  "duration_s": 6245,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": "012c1438ac8fb51e135aac609fa7446382be3105",
+    "command": "hytt 'https://www.youtube.com/watch?v=YNoFdPkGuYc' -s ja -t en",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": false,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-07-12T00:40:33.793Z",
+    "error": null,
+    "total_duration_ms": 2059487,
+    "repair": {
+      "repetition_cues": 5,
+      "overlong_cues": 10,
+      "gap_cues_recovered": 23,
+      "cues_replaced": 11,
+      "cues_inserted": 64,
+      "cues_clamped": 20
+    }
+  }
+}
