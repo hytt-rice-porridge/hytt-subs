@@ -1,0 +1,39 @@
+{
+  "id": "Z1_nnb7LxYs",
+  "title": "【3DLIVE】Lazy DOOG Night! 【戌神ころね】#戌神ころね7周年",
+  "channel": "Korone Ch. 戌神ころね",
+  "uploader": "Korone Ch. 戌神ころね",
+  "url": "https://www.youtube.com/watch?v=Z1_nnb7LxYs",
+  "upload_date": "2026-06-15",
+  "video_language": "ja",
+  "duration_s": 3760,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": null,
+    "command": "hytt 'https://www.youtube.com/watch?v=Z1_nnb7LxYs' -s ja -t en -o 'C:\\Users\\Ben\\Desktop\\git\\korone-streams\\work' -y -q",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": true,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-07-12T04:12:08.847Z",
+    "error": null,
+    "total_duration_ms": 583127,
+    "auto_context_used": true,
+    "translation_model": "claude-sonnet-4-6",
+    "token_usage": {
+      "input_tokens": 22288,
+      "output_tokens": 17709,
+      "cache_creation_input_tokens": 4848,
+      "cache_read_input_tokens": 58176,
+      "actual_usd": 0.36813179999999995
+    },
+    "token_estimate": {
+      "low_usd": 0.28538306999999996,
+      "midpoint_usd": 0.4076901,
+      "high_usd": 0.5707661399999999
+    }
+  }
+}
