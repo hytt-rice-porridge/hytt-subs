@@ -1,0 +1,33 @@
+{
+  "id": "v2kONOKZaTo",
+  "title": "すぷらてぅんフェス！！！夜の部！！！！",
+  "channel": "Korone Ch. 戌神ころね",
+  "uploader": "Korone Ch. 戌神ころね",
+  "url": "https://www.youtube.com/watch?v=v2kONOKZaTo",
+  "upload_date": "2026-07-11",
+  "video_language": "ja",
+  "duration_s": 15930,
+  "was_live": true,
+  "hytt": {
+    "version": "0.1.0",
+    "commit": null,
+    "command": "hytt 'https://www.youtube.com/watch?v=v2kONOKZaTo' -s ja -t en -o 'C:\\Users\\Ben\\Desktop\\git\\korone-streams\\work' -y -q",
+    "source_language": "ja",
+    "target_language": "en",
+    "context_file_used": true,
+    "transcription_model": "ggml-large-v3.bin",
+    "vad_model": "ggml-silero-v6.2.0.bin",
+    "status": "done",
+    "completed_on": "2026-07-12T17:52:36.159Z",
+    "error": null,
+    "total_duration_ms": 3083944,
+    "repair": {
+      "repetition_cues": 9,
+      "overlong_cues": 15,
+      "gap_cues_recovered": 14,
+      "cues_replaced": 21,
+      "cues_inserted": 153,
+      "cues_clamped": 22
+    }
+  }
+}
