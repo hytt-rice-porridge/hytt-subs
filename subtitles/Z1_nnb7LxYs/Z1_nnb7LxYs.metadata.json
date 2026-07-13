@@ -1,0 +1,64 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "Z1_nnb7LxYs",
+    "title": "【3DLIVE】Lazy DOOG Night! 【戌神ころね】#戌神ころね7周年",
+    "description": "※1曲まるごとの切り抜きはNGです。こちらの配信で楽しんでもらえたら嬉しいです！\n\nタグ #戌神ころね7周年\n\n活動7周年グッズ▶https://shop.hololivepro.com/products/inugamikorone_anniversary_7th\n---------------------------------------------\n【振付】\n総合振付・監修 株式会社FIREWORKS    \n振付監修 MaiMai    \n振付アシスタント FIREWORKSダンサーズ    \n    \n「マフィオーザ」振付    \nまいどん(おでんガールズ)　https://x.com/FlFo7o\n\n【背景・歌詞演出映像制作】    \nSyamo.G-しゃもじ-　https://x.com/syamoji_0114\nオムカ　https://x.com/rexmeltykiss\nあいまいないぬ    https://x.com/_i__my__dog_\nPoina　https://x.com/_Nateay\n紺屋本 綴　https://x.com/tsuzuri_58\n篠宮≒クラゲ　https://x.com/kurage2423\n\n【Special Thanks】\n合同会社 VESSEL LIFE    \nSAZA    \nsa-sara    \n暁　https://twitter.com/akatsuki7guitar\num.　https://x.com/um_umareru\n釼田 駿    https://x.com/tsuru_shun07\nToshiyuki　https://twitter.com/toshi2_basses?lang=ja\nれちぴ　https://x.com/kikokikoP_P\nraihiva　https://x.com/hbr_moka_komagi\nヨシくん。　https://x.com/yoshikun_nico\n   \nトライフロンティア合同会社    \n菅野聡志　https://twitter.com/st_pipipi\n    \n株式会社サウンド・シティ    \n中山太陽    \n永野紫音    \n吉田美千加    \n岡田妃由    \n川越誠也    \n柏倉吉紀    \n\n【制作】\nCOVER Corp. STUDIO\n\n【ロゴ】\nミナトデザイン　https://x.com/minato_design_s?s=20\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n---------------------------------------------\n\nころモンTシャツ発売中！\n→ https://booth.pm/ja/items/1908655\n\n---------------------------------------------\n\nころねオリジナル曲、配信中☆\n→ https://korone.streamlink.to/WANDERFUL\n\n---------------------------------------------\n\nサムネイラスト：Hikosan(ひこさん)（@ hikosan333）様\nありがとうございます！\n\n---------------------------------------------\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20260615",
+    "duration_s": 3760,
+    "categories": [
+      "Music"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=Z1_nnb7LxYs"
+  },
+  "context": {
+    "auto_context": null,
+    "context_file": null
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-07-12T04:12:08.847Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": null,
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin"
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-07-12T04:12:08.847Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": null,
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 22288,
+        "output_tokens": 17709,
+        "cache_creation_input_tokens": 4848,
+        "cache_read_input_tokens": 58176,
+        "actual_usd": 0.36813179999999995
+      }
+    }
+  },
+  "total_duration_ms": 583127
+}

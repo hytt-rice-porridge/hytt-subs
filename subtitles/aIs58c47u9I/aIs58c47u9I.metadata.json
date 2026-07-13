@@ -1,0 +1,55 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "aIs58c47u9I",
+    "title": "DEATH STRANDING 2: ON THE BEACH Short Trailer | 特殊報酬",
+    "description": "『DEATH STRANDING 2』では、サムを極限まで追い込む手強い脅威が待ち受けています。\nミッションをクリアすることで、配達をサポートするさまざまなユニークな報酬や装備をアンロックでき、戦闘を有利に進めることができます👍\n\nDEATH STRANDING 2: ON THE BEACH\n\nPC Version\nSteam: https://store.steampowered.com/app/3280350/DEATH_STRANDING_2_ON_THE_BEACH/\nEpic Games Store: https://store.epicgames.com/p/death-stranding-2-on-the-beach-7773ec\n\nPlayStation®5\nhttps://www.playstation.com/games/death-stranding-2-on-the-beach/\n\n#DeathStranding2",
+    "channel": "KOJIMA PRODUCTIONS",
+    "uploader": "KOJIMA PRODUCTIONS",
+    "upload_date": "20260316",
+    "duration_s": 39,
+    "categories": [
+      "Gaming"
+    ],
+    "tags": [],
+    "was_live": false,
+    "live_status": "not_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=aIs58c47u9I"
+  },
+  "context": {
+    "auto_context": null,
+    "context_file": null
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-05-08T22:04:11.946Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "6d2d4fcdb041327a9152c3ef288b745ece756096",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin"
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-05-08T22:04:11.946Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "6d2d4fcdb041327a9152c3ef288b745ece756096",
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 1541,
+        "output_tokens": 232,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "actual_usd": 0.008103
+      }
+    }
+  },
+  "total_duration_ms": 19510
+}

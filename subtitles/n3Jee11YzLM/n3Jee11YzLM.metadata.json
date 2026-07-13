@@ -1,0 +1,72 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "n3Jee11YzLM",
+    "title": "【R.E.P.O.】ころね支店だワン🐕【#ホロREPO】",
+    "description": "Play Game : R.E.P.O. ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​　#ホロREPO\n\n---------------------------------------------\n\n今日のメンバー\n@NatsuiroMatsuri 誘ってくれた女♡\n@TsunomakiWatame 悪くない女♡\n@IsakiRiona ラッパー女♡\n@InugamiKorone 犬女\n\n---------------------------------------------\n\nころモンTシャツ発売中！\n→ https://booth.pm/ja/items/1908655\n\n---------------------------------------------\n\nころねオリジナル曲、配信中☆\n→ https://korone.streamlink.to/WANDERFUL\n\n---------------------------------------------\n\nサムネ制作はまちゅり！！ありがと～(^^)/\n\n---------------------------------------------\n\n配信タイトル：R.E.P.O.\nストアページ：https://store.steampowered.com/app/3241660/REPO/\n\n---------------------------------------------\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20250724",
+    "duration_s": 8916,
+    "categories": [
+      "Gaming"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況",
+      "夏色まつり",
+      "角巻わため",
+      "響咲リオナ"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=n3Jee11YzLM"
+  },
+  "context": {
+    "auto_context": {
+      "card": "This is an archived live stream from July 24, 2025, on the channel of Korone (Inugami Korone), a VTuber from hololive Gamers. The video is a multiplayer gameplay session of the co-op horror game R.E.P.O. (stylized as REPO on Steam), played together with three other hololive members: Natsuiro Matsuri, Tsunomaki Watame, and Isaki Riona. The stream is part of a group collab series tagged as #ホロREPO, and the tone is casual, lively, and comedic, consistent with Korone's energetic streaming persona. Speech will be in Japanese, with gaming callouts, character banter, and the players' VTuber names used frequently.",
+      "model": "claude-sonnet-4-6",
+      "prompt_version": 1,
+      "generated_at": "2026-05-12T02:28:18.271Z"
+    },
+    "context_file": null
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-05-12T02:44:54.722Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin"
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-05-12T02:44:54.722Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 60918,
+        "output_tokens": 50289,
+        "cache_creation_input_tokens": 4879,
+        "cache_read_input_tokens": 190281,
+        "actual_usd": 1.01246955
+      }
+    }
+  },
+  "total_duration_ms": 2144864
+}

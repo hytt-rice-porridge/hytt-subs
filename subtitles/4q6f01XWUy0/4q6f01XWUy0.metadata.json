@@ -1,0 +1,65 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "4q6f01XWUy0",
+    "title": "【#みっころね】一緒につぐのひ…やろ…？【罰ゲームだけど楽しみなやつ】",
+    "description": "Play Game : つぐのひ ( steam )\nタグ #みっころね\n\n---------------------------------------------\n\n可愛いコラボ相手にぇ\n\nさくらみこ▶ https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n---------------------------------------------\n\nころモンTシャツ発売中！\n→ https://booth.pm/ja/items/1908655\n\n---------------------------------------------\n\nころねオリジナル曲、配信中☆\n→ https://korone.streamlink.to/WANDERFUL\n\n---------------------------------------------\n\n本ゲームは株式会社バカ―に確認を得た上で、またPLAYISMの実況ガイドラインに則り配信・収益化を行なっております。\n© ImCyan/Vaka Game Magazine. Licensed to and published by Vaka, Inc./Active Gaming Media, Inc.\nhttp://imcyan.web.fc2.com/\nhttps://store.steampowered.com/app/1322300/_/\n\n---------------------------------------------",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20210830",
+    "duration_s": 4190,
+    "categories": [
+      "Gaming"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "VR",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=4q6f01XWUy0"
+  },
+  "context": {
+    "auto_context": null,
+    "context_file": null
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-05-09T05:31:10.247Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin"
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-05-09T05:31:10.248Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 29240,
+        "output_tokens": 23990,
+        "cache_creation_input_tokens": 6332,
+        "cache_read_input_tokens": 120308,
+        "actual_usd": 0.5074074000000001
+      }
+    }
+  },
+  "total_duration_ms": 1183578
+}

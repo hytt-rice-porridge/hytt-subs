@@ -1,0 +1,70 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "0q9ZdNGbhNo",
+    "title": "【A WAY OUT】みっころねは逃亡する【ホロライブ/さくらみこ/戌神ころね】",
+    "description": "タグ　#みっころね\n\n前回→https://www.youtube.com/watch?v=TqCsK1IriTA\n\n---------------------------------------------\n\n▶さくらみこ\n　https://twitter.com/sakuramiko35\n　https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA\n\n---------------------------------------------\n\n本ゲームは © 2020 Electronic Arts Inc. の承諾を得た上で配信・収益化を行なっております。\n\n---------------------------------------------\n\n使用BGM\n□DOVA-SYNDROME\n　HP：https://dova-s.jp",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20210107",
+    "duration_s": 14030,
+    "categories": [
+      "Gaming"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "VR",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=0q9ZdNGbhNo"
+  },
+  "context": {
+    "auto_context": {
+      "card": "This is an archived co-op gameplay livestream uploaded on January 7, 2021, from the channel of Korone (戌神ころね), a VTuber from hololive Gamers. She is playing the co-op action-adventure game A Way Out together with fellow hololive VTuber Sakura Miko (さくらみこ); the pair's combined nickname is \"Mikkoro-ne\" (みっころね), which is also the stream's tag. The stream is a continuation of a previous session, and the two are playing through the game's prison-break and fugitive storyline. Speech throughout is casual Japanese between the two performers, with the lively, comedic tone typical of hololive gaming streams.",
+      "model": "claude-sonnet-4-6",
+      "prompt_version": 1,
+      "generated_at": "2026-05-09T20:46:23.670Z"
+    },
+    "context_file": null
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-05-09T21:03:24.906Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin"
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-05-09T21:03:24.907Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "fb02afcd1fe1c97def7159509a034def52d693a8",
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 77965,
+        "output_tokens": 63447,
+        "cache_creation_input_tokens": 6309,
+        "cache_read_input_tokens": 315450,
+        "actual_usd": 1.30389375
+      }
+    }
+  },
+  "total_duration_ms": 2713079
+}

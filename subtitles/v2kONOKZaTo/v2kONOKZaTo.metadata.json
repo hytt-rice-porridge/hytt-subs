@@ -1,0 +1,64 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "v2kONOKZaTo",
+    "title": "すぷらてぅんフェス！！！夜の部！！！！",
+    "description": "Play Game : Splatoon 3 ( switch )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nふるぱ～～！\n@ShiranuiFlare \n@IRyS \n@OokamiMio \n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n---------------------------------------------\n\nころモンTシャツ発売中！\n→ https://booth.pm/ja/items/1908655\n\n---------------------------------------------\n\nころねオリジナル曲、配信中☆\n→ https://korone.streamlink.to/WANDERFUL\n\n---------------------------------------------\n\nサムネイラスト：箸熊（@ hashiguma_）様\nありがとうございます！\n\n---------------------------------------------\n\nこの動画およびライブは、任天堂著作物の利用許諾を受けて配信しています。\n\n---------------------------------------------\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20260711",
+    "duration_s": 15930,
+    "categories": [
+      "Gaming"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=v2kONOKZaTo"
+  },
+  "context": {
+    "auto_context": null,
+    "context_file": null
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-07-12T17:52:36.159Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": null,
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin"
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-07-12T17:52:36.160Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": null,
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 127953,
+        "output_tokens": 104714,
+        "cache_creation_input_tokens": 4907,
+        "cache_read_input_tokens": 368025,
+        "actual_usd": 2.0833777500000004
+      }
+    }
+  },
+  "total_duration_ms": 3083944
+}
