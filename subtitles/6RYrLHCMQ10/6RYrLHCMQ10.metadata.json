@@ -86,38 +86,38 @@
     "ja": {
       "kind": "transcription",
       "status": "done",
-      "completed_on": "2026-07-13T01:37:25.207Z",
+      "completed_on": "2026-07-13T00:01:34.746Z",
       "error": null,
       "hytt_version": "0.1.0",
       "commit": "036e163a883cadcf872be3c8e5d2d6d16f425815",
       "transcription_model": "ggml-large-v3.bin",
       "vad_model": "ggml-silero-v6.2.0.bin",
       "repair": {
-        "repetition_cues": 0,
-        "overlong_cues": 0,
-        "gap_cues_recovered": 0,
-        "cues_replaced": 0,
-        "cues_inserted": 0,
-        "cues_clamped": 0
+        "repetition_cues": 1,
+        "overlong_cues": 63,
+        "gap_cues_recovered": 18,
+        "cues_replaced": 64,
+        "cues_inserted": 176,
+        "cues_clamped": 170
       }
     },
     "en": {
       "kind": "translation",
       "source": "ja",
       "status": "done",
-      "completed_on": "2026-07-13T01:37:25.207Z",
+      "completed_on": "2026-07-13T00:01:34.747Z",
       "error": null,
       "hytt_version": "0.1.0",
       "commit": "036e163a883cadcf872be3c8e5d2d6d16f425815",
       "translation_model": "claude-sonnet-4-6",
       "token_usage": {
-        "input_tokens": 0,
-        "output_tokens": 0,
-        "cache_creation_input_tokens": 0,
-        "cache_read_input_tokens": 0,
-        "actual_usd": 0
+        "input_tokens": 62021,
+        "output_tokens": 51038,
+        "cache_creation_input_tokens": 4161,
+        "cache_read_input_tokens": 153957,
+        "actual_usd": 1.01342385
       }
     }
   },
-  "total_duration_ms": 16
+  "total_duration_ms": 3918176
 }
