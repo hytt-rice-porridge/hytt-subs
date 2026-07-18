@@ -1,0 +1,80 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "_T1NjJnD8dc",
+    "title": "【Toilet 8】トイレで異変探し",
+    "description": "Play Game : Toilet 8 ( steam )\nタグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n---------------------------------------------\n\nころモンTシャツ発売中！\n→ https://booth.pm/ja/items/1908655\n\n---------------------------------------------\n\nころねオリジナル曲、配信中☆\n→ https://korone.streamlink.to/WANDERFUL\n\n---------------------------------------------\n\nサムネイラスト：どんぶり（@ LISTENER_dnbr）様\nありがとうございます！\n\n---------------------------------------------\n\n配信タイトル：Toilet 8\nSteam: https://store.steampowered.com/app/4142980/Toilet_8\niOS: https://apps.apple.com/us/app/toilet-8/id6755677576\nAndroid: https://play.google.com/store/apps/details?id=games.okashi.toilet8\n\n---------------------------------------------\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20260717",
+    "duration_s": 7741,
+    "categories": [
+      "Gaming"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=_T1NjJnD8dc"
+  },
+  "context": {
+    "auto_context": {
+      "card": "This is an archived Japanese-language gaming live stream uploaded on July 17, 2026, by Korone (戌神ころね / Inugami Korone), a VTuber from hololive Gamers. She is playing Toilet 8, a spot-the-difference or anomaly-finding game set in a toilet environment, available on Steam, iOS, and Android. The tone is casual and energetic, typical of Korone's streams, and the session ran approximately two hours and nine minutes.",
+      "model": "claude-sonnet-4-6",
+      "prompt_version": 1,
+      "generated_at": "2026-07-18T04:07:04.276Z"
+    },
+    "context_file": {
+      "sha256": "d52028bb8672ead683aaf296b4609f0b20f010182864264830accd7afb4483d8",
+      "bytes": 9934
+    }
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-07-18T04:16:41.933Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "13c14b9ab664fcfa5aa1989b3669cfd49640e1af",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin",
+      "repair": {
+        "repetition_cues": 1,
+        "overlong_cues": 35,
+        "gap_cues_recovered": 43,
+        "cues_replaced": 35,
+        "cues_inserted": 197,
+        "cues_clamped": 47
+      }
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-07-18T04:16:41.933Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "13c14b9ab664fcfa5aa1989b3669cfd49640e1af",
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 37828,
+        "output_tokens": 30895,
+        "cache_creation_input_tokens": 4813,
+        "cache_read_input_tokens": 110699,
+        "actual_usd": 0.62816745
+      }
+    }
+  },
+  "total_duration_ms": 1039870
+}
