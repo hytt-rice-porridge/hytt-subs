@@ -1,0 +1,119 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "tfYJyltB4sQ",
+    "title": "【公式】METAL GEAR SOLID V: THE PHANTOM PAIN | E3 2015 Trailer [Long] (JP)",
+    "description": "【公式】METAL GEAR SOLID V: THE PHANTOM PAIN - E3 2015 Trailer [Long] (JP)\n\n▼ METAL GEAR SOLID V: THE PHANTOM PAIN\nhttp://www.konami.jp/mgs5/tpp/jp/?kj=yt_e32015l_jp",
+    "channel": "KONAMI公式",
+    "uploader": "KONAMI公式",
+    "upload_date": "20150615",
+    "duration_s": 347,
+    "categories": [
+      "Gaming"
+    ],
+    "tags": [
+      "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "METAL GEAR SOLID V: GROUND ZEROES",
+      "MGSV",
+      "MGS5",
+      "TPP",
+      "GROUND ZEROES",
+      "GZ",
+      "メタルギアソリッド 5",
+      "ファントムペイン",
+      "メタルギア",
+      "ソリッド 5",
+      "グラウンド ゼロズ",
+      "小島秀夫監督",
+      "HIDEO KOJIMA",
+      "メタルギア５",
+      "KONAMI",
+      "コナミ",
+      "Xbox ONE",
+      "Xbox 360",
+      "PlayStation",
+      "PS3",
+      "PS4",
+      "プレイステーション",
+      "Snake",
+      "スネーク",
+      "大塚明夫",
+      "ミラー",
+      "杉田智和",
+      "オセロット",
+      "三上哲",
+      "Kiefer Sutherland",
+      "小島プロダクション",
+      "Kojima Productions"
+    ],
+    "was_live": false,
+    "live_status": "not_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=tfYJyltB4sQ"
+  },
+  "context": {
+    "auto_context": {
+      "card": "This is the official Japanese-language E3 2015 long trailer for Metal Gear Solid V: The Phantom Pain, uploaded by KONAMI's official Japanese channel on June 15, 2015. The video is a cinematic promotional trailer, not gameplay commentary, featuring Japanese voice acting with the cast including Akio Otsuka (大塚明夫) as Snake, Tomokazu Sugita (杉田智和) as Miller, and Mikami Satoshi (三上哲) as Ocelot. The game is directed by Hideo Kojima (小島秀夫) and is the fifth mainline entry in the Metal Gear Solid series, releasing on PlayStation 3, PlayStation 4, Xbox 360, and Xbox One. Tone is dramatic and cinematic; expect proper nouns such as Snake, Ocelot, Miller, Diamond Dogs, Mother Base, and references to the broader Metal Gear lore.",
+      "model": "claude-sonnet-4-6",
+      "prompt_version": 1,
+      "generated_at": "2026-07-21T02:20:00.546Z"
+    },
+    "context_file": null
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-07-21T02:20:27.030Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "790593471fcd379358159b2ed5b77ddc003cdfea",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin",
+      "vocal_separation": {
+        "tool": "demucs",
+        "model": "htdemucs"
+      },
+      "repair": {
+        "repetition_cues": 0,
+        "overlong_cues": 5,
+        "gap_cues_recovered": 1,
+        "cues_replaced": 5,
+        "cues_inserted": 11,
+        "cues_snapped": 5,
+        "cues_dropped": 4,
+        "cues_clamped": 1
+      },
+      "proofread": {
+        "model": "claude-sonnet-4-6",
+        "prompt_version": 4,
+        "token_usage": {
+          "input_tokens": 866,
+          "output_tokens": 848,
+          "cache_creation_input_tokens": 1932,
+          "cache_read_input_tokens": 0,
+          "actual_usd": 0.022563
+        }
+      }
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-07-21T02:20:27.030Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "790593471fcd379358159b2ed5b77ddc003cdfea",
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 855,
+        "output_tokens": 687,
+        "cache_creation_input_tokens": 1255,
+        "cache_read_input_tokens": 0,
+        "actual_usd": 0.01757625
+      }
+    }
+  },
+  "total_duration_ms": 114131
+}
