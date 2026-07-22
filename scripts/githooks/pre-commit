@@ -1,0 +1,6 @@
+#!/bin/sh
+# Keep index.json in sync with subtitles/ on every commit.
+# Enable once per clone: git config core.hooksPath scripts/githooks
+set -e
+bun scripts/generate-index.ts
+git add index.json
