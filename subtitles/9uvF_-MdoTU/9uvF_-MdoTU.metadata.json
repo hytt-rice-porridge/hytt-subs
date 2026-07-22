@@ -1,0 +1,97 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "9uvF_-MdoTU",
+    "title": "水着ぼいんぼいん雑談",
+    "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n---------------------------------------------\n\nころモンTシャツ発売中！\n→ https://booth.pm/ja/items/1908655\n\n---------------------------------------------\n\nころねオリジナル曲、配信中☆\n→ https://korone.streamlink.to/WANDERFUL\n\n---------------------------------------------\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20260720",
+    "duration_s": 6779,
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=9uvF_-MdoTU"
+  },
+  "context": {
+    "auto_context": {
+      "card": "This is an archived casual live stream (zatsudan) from Korone Ch., the YouTube channel of Inugami Korone, a VTuber from Hololive Gamers under Hololive Production, uploaded July 20, 2026. The stream title translates roughly to \"Swimsuit Boing Boing Chat,\" indicating a lighthearted, informal chat session likely themed around a swimsuit reveal or related content. The language is Japanese, the tone is casual and playful, and the stream carries a minor-protection notice from Cover Corporation suggesting some age-awareness around the content.",
+      "model": "claude-sonnet-4-6",
+      "prompt_version": 1,
+      "generated_at": "2026-07-22T12:08:21.217Z"
+    },
+    "context_file": {
+      "sha256": "d52028bb8672ead683aaf296b4609f0b20f010182864264830accd7afb4483d8",
+      "bytes": 9934
+    }
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-07-22T12:28:45.806Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "790593471fcd379358159b2ed5b77ddc003cdfea",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin",
+      "vocal_separation": {
+        "tool": "demucs",
+        "model": "htdemucs"
+      },
+      "repair": {
+        "repetition_cues": 2,
+        "overlong_cues": 21,
+        "gap_cues_recovered": 16,
+        "cues_replaced": 22,
+        "cues_inserted": 52,
+        "cues_snapped": 17,
+        "cues_dropped": 2,
+        "cues_clamped": 25
+      },
+      "proofread": {
+        "model": "claude-sonnet-4-6",
+        "prompt_version": 4,
+        "token_usage": {
+          "input_tokens": 39526,
+          "output_tokens": 38369,
+          "cache_creation_input_tokens": 5449,
+          "cache_read_input_tokens": 125327,
+          "actual_usd": 0.75214485
+        }
+      }
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-07-22T12:28:45.806Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "790593471fcd379358159b2ed5b77ddc003cdfea",
+      "translation_model": "claude-sonnet-4-6",
+      "token_usage": {
+        "input_tokens": 39411,
+        "output_tokens": 32667,
+        "cache_creation_input_tokens": 4748,
+        "cache_read_input_tokens": 109204,
+        "actual_usd": 0.6588042000000001
+      }
+    }
+  },
+  "total_duration_ms": 1720105
+}
