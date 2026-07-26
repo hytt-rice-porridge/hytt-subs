@@ -72,37 +72,24 @@
   },
   "context": {
     "auto_context": {
-      "card": "This is an archived live stream uploaded on April 28, 2025, from Polka Ch. 尾丸ポルカ (Omaru Polka), a VTuber belonging to hololive's Gamers branch. The stream is part of the ongoing hololive group Rust series known as holoRUST, in which multiple hololive members play together on a shared Rust server. In this session, Polka is playing Rust with Amane Kanata (かなたそ), and the two are hanging out at Luna's base, with the stated goal of a \"tank extermination quest.\" The tone is casual and comedic, typical of Polka's laid-back streaming style, and the Japanese is informal and conversational. The game is Rust by Facepunch Studios.",
+      "card": "This is an archived live stream uploaded on April 28, 2025, from Polka Ch. 尾丸ポルカ (Omaru Polka), a VTuber belonging to hololive's Gamers branch. The stream is part of the ongoing hololive group Rust series known as holoRUST, in which multiple hololive members play together on a shared Rust server. In this session, Polka describes hanging out with Kanata (天音かなた) at Luna's (姫森ルーナ) base, with the main objective being a \"tank extermination quest.\" The tone is casual and comedic, typical of Polka's laid-back streaming style, and the speech is in Japanese.",
       "model": "claude-sonnet-4-6",
       "prompt_version": 1,
-      "generated_at": "2026-07-24T02:37:41.504Z"
-    },
-    "transcript_outline": {
-      "card": "[0:01] Stream opens; Polka (Omaru Polka) is already in-game on the holoRUST server. Kanata (かなたそ / Amane Kanata) is present via voice call throughout the early session.\n[0:33] Audio double-echo issue noted and brushed off. Polka recaps the premise: go hunt the tank (戦車) with Luna (ルーナ). Luna is mentioned as the planned third participant but is not yet present.\n[0:44] Polka references yesterday's session with Azuki (あずきち / likely Haachama or another member who taught tank tactics); today's mood is more confident.\n[1:28] Preparation phase at Luna's base: counting missile ammo (12 rockets), checking Hazard Suits, discussing the \"tank dismantling shop\" (戦車解体センター) Polka built that earned scrap. 5,000 scrap surplus noted.\n[3:16] Idle banter about spending scrap — suggestions include riding the large helicopter together or buying a boat/tank.\n[4:12] Polka checks the camping car (キャンピングカー); decides to take just one vehicle since they feel confident after yesterday's practice.\n[6:24] Discussion of desired loot from the tank: specifically the M249 machine gun, which Kanata has long wanted. LR-300 already obtained previously; M249 remains the dream drop.\n[7:19] Easter Egg Hunt event interrupts; Polka and Kanata briefly compete for eggs (silver eggs). Polka gets 2nd place by a hair.\n[8:04] Kanata shares tank-combat tip learned from Azuki: strafe sideways (\"crab walk\" / カニ歩き) to dodge the tank's cannon shells.\n[9:03] Polka declares departure for the tank monument; both board the camping car. Minor struggle getting Kanata into the passenger seat.\n[11:26] En route, a patrol helicopter (パトロールヘリ) spots them and fires missiles, destroying the camping car. Both players survive but lose the vehicle and its contents (Hazard Suits, food, etc.).\n[13:10] Polka and Kanata are on foot; second camping car retrieved. Polka notes she had a gun from Luna (referred to vaguely as \"N39 something\") that was unloaded.\n[18:03] They drive the second camping car toward the tank monument (モニュメント / train yard area).\n[20:42] Arrive at the tank monument area. No tank sound heard. They search the monument interior.\n[24:56] Tank is absent — apparently already defeated by other players. Running joke: \"Did the tank take Golden Week off?\" They joke about needing a reservation system for the tank.\n[27:49] Polka predicts everyone is rushing the tank on the final PVE day; they wait inside the monument for a respawn.\n[36:04] While waiting, Polka and Kanata do a mock \"closing speech\" for the holoRUST PVE period, reminiscing about the farming arc with Luna and pumpkins.\n[43:04] Easter egg event triggers again; they briefly collect eggs while still waiting for the tank.\n[46:58] Luna (ひめ / 姫) joins the game and voice call. Almost simultaneously, the tank spawns.\n[47:09] Tank spawns while Polka is away from keyboard (bathroom break). Luna engages alone and dies. Polka returns to chaos — both are dead, camping car destroyed by tank missile.\n[49:52] Recovery phase: Polka respawns, retrieves Hazard Suit from the camping car storage, gives Kanata a sleeping bag. They regroup and head back toward the tank.\n[54:29] Second tank engagement begins. Kanata spots the tank (visual confirmation). Polka fires rockets; Kanata draws aggro (\"ヘイト\"). Crab-walk dodging attempted with mixed success.\n[55:59] Polka dies again from being too close. Respawns at a nearby sleeping bag on a small hill.\n[1:00:53] Third engagement: tank located again (NE direction). Both fire rockets. Tank gets stuck (スタック) against geometry — Kanata exploits this.\n[1:10:21] Tank is visibly burning (black smoke confirmed). Luna holds aggro while Polka fires from cover.\n[1:15:00] Tank destroyed. Server-wide notification appears on the map. Celebration. Loot boxes appear but are still on fire.\n[1:19:39] Loot boxes cooled; opened. Box 2 yields the M249 light machine gun — the long-sought dream item. Massive celebration from all three.\n[1:21:02] Luna test-fires the M249. Polka tries to loot the tank wreck but it is still hot.\n[1:25:27] Heading back to base via camping car. A patrol helicopter attacks and destroys the second camping car near Luna/Niko's base. All three die. A bear also spawns and kills them.\n[1:30:24] Another player (unnamed, near Niko's base) is present; bear dies in the fire. Bodies recovered. Polka apologizes for the chaos near a neighbor's (ニコたん's) base.\n[1:36:03] Back at base; M249 stored safely. Discussion of using homing missiles (ホーミングミサイル / SAM) against the patrol helicopter for revenge.\n[1:39:37] Patrol helicopter returns; Polka and Kanata attempt to craft a Homing Missile Launcher (requires CCTV camera + pipe). One launcher crafted.\n[1:43:12] Helicopter leaves before they can fire. Frustration.\n[1:51:59] Luna pilots the mini-helicopter (ミニヘリ) to the Bandit Camp (ギャンブル場) to shop for CCTV cameras; none available. Luna demonstrates impressive helicopter flying skill.\n[1:57:25] Polka attempts to fly the mini-helicopter; crashes but survives. Luna retrieves her.\n[2:00:03] Luna lands the helicopter near base with minor collision (\"stone's fault\"). Helicopter repaired.\n[2:13:43] Polka signs off from the voice call with Kanata and Luna, noting she has evening plans but may return for the final PVE night session. Luna stays in-game. Stream ends shortly after.\n\n---\n\n**Recurring terms / referents for proofreaders:**\n\n- **戦車** — the Bradley/tank NPC at the Train Yard monument; the main quest target\n- **M249** — M249 light machine gun; the rare dream-drop from the tank loot crates\n- **ホーミングミサイル / ホーミングランチャー** — Homing Missile Launcher (SAM launcher); requires CCTV camera to craft\n- **CCTVカメラ** — CCTV Camera, crafting component for the homing launcher\n- **カニ歩き** — \"crab walk,\" the lateral-strafe dodge technique for tank cannon shells\n- **キャンピングカー** — Camper/RV vehicle used for transport; destroyed twice by helicopter\n- **パトロールヘリ** — Patrol Helicopter NPC that attacks players; recurring antagonist\n- **ハザードスーツ** — Hazard Suit, radiation protection gear worn at the monument\n- **スクラップ** — Scrap, the main currency/crafting resource; Polka has 5,000+ surplus\n- **かなたそ / Kanata** — Amane Kanata, on voice call throughout; not always visible in-game\n- **ルーナ / 姫** — Hololive member Luna (姫 = \"princess,\" her nickname); joins mid-stream\n- **あずきち** — the member who taught tank tactics the previous day (ASR unclear on exact name)\n- **ニコたん** — a neighbor VTuber whose base is near Luna's; nearly caught in the helicopter attack\n- **ぽんぽん / ポーポー** — Polka's self-referential nicknames used in third person\n- **スタック** — \"stuck/stacked,\" when the tank NPC gets caught on geometry, making it easier to shoot\n- **ヘイト** — aggro/threat; \"drawing ヘイト\" means the tank is targeting that player\n- **エッグハント / イースター** — Easter Egg Hunt seasonal event running concurrently on the server\n- **ギャンブル場 / バンディットキャンプ** — Bandit Camp, the in-game shop island visited by helicopter\n- **PVE期間** — the PVE (player-vs-environment, no player combat) phase of holoRUST, ending this day",
-      "model": "claude-sonnet-4-6",
-      "prompt_version": 1,
-      "generated_at": "2026-07-24T02:40:31.137Z",
-      "token_usage": {
-        "input_tokens": 52283,
-        "output_tokens": 2124,
-        "cache_creation_input_tokens": 0,
-        "cache_read_input_tokens": 0,
-        "actual_usd": 0.18870900000000002
-      }
+      "generated_at": "2026-07-26T02:50:27.818Z"
     },
     "context_file": {
-      "sha256": "804244eb10e9088eb0f257709543ff168faea2164054de9223bad3bba6dceca1",
-      "bytes": 7238
+      "sha256": "e7055903e0fe3f847657bbd768706d8c3e1eb4d74cd0bfa8a062431d210a4702",
+      "bytes": 7239
     }
   },
   "tracks": {
     "ja": {
       "kind": "transcription",
       "status": "done",
-      "completed_on": "2026-07-24T03:08:13.130Z",
+      "completed_on": "2026-07-26T03:21:40.277Z",
       "error": null,
       "hytt_version": "0.1.0",
-      "commit": "2f455eab04a533180c00b794f670daec839e6bce",
+      "commit": "d6fb26554ee2b24d2d3c0b162613aeefcfa78905",
       "transcription_model": "ggml-large-v3.bin",
       "vad_model": "ggml-silero-v6.2.0.bin",
       "vocal_separation": {
@@ -110,26 +97,26 @@
         "model": "htdemucs"
       },
       "repair": {
-        "repetition_cues": 3,
-        "overlong_cues": 8,
-        "gap_cues_recovered": 17,
-        "cues_replaced": 8,
-        "cues_inserted": 82,
-        "cues_snapped": 11,
-        "cues_dropped": 1,
-        "gaps_escalated": 1,
+        "repetition_cues": 8,
+        "overlong_cues": 14,
+        "gap_cues_recovered": 24,
+        "cues_replaced": 16,
+        "cues_inserted": 136,
+        "cues_snapped": 22,
+        "cues_dropped": 2,
+        "gaps_escalated": 3,
         "duplicate_runs_collapsed": 0,
-        "cues_clamped": 22
+        "cues_clamped": 18
       },
       "proofread": {
         "model": "claude-sonnet-4-6",
         "prompt_version": 5,
         "token_usage": {
-          "input_tokens": 57058,
-          "output_tokens": 55390,
-          "cache_creation_input_tokens": 7016,
-          "cache_read_input_tokens": 238544,
-          "actual_usd": 1.0998972
+          "input_tokens": 58283,
+          "output_tokens": 56343,
+          "cache_creation_input_tokens": 4791,
+          "cache_read_input_tokens": 167685,
+          "actual_usd": 1.0882657499999997
         }
       }
     },
@@ -137,19 +124,19 @@
       "kind": "translation",
       "source": "ja",
       "status": "done",
-      "completed_on": "2026-07-24T03:08:13.130Z",
+      "completed_on": "2026-07-26T03:21:40.277Z",
       "error": null,
       "hytt_version": "0.1.0",
-      "commit": "2f455eab04a533180c00b794f670daec839e6bce",
+      "commit": "d6fb26554ee2b24d2d3c0b162613aeefcfa78905",
       "translation_model": "claude-sonnet-4-6",
       "token_usage": {
-        "input_tokens": 56763,
-        "output_tokens": 46314,
-        "cache_creation_input_tokens": 6312,
-        "cache_read_input_tokens": 214608,
-        "actual_usd": 0.9530514
+        "input_tokens": 57900,
+        "output_tokens": 47462,
+        "cache_creation_input_tokens": 4087,
+        "cache_read_input_tokens": 143045,
+        "actual_usd": 0.94386975
       }
     }
   },
-  "total_duration_ms": 3405342
+  "total_duration_ms": 3722537
 }
