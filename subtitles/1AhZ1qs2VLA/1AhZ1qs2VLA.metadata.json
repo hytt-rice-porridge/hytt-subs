@@ -1,0 +1,110 @@
+{
+  "format_version": 1,
+  "youtube": {
+    "id": "1AhZ1qs2VLA",
+    "title": "【ビックリマンチョコ開封】マンダロリアン&グローグー全24種、フルコンプするまで終われまテン！！！！！",
+    "description": "タグ #生神もんざえもん​​​​​​​​​​​\n\n---------------------------------------------\n\nころねTwitter▶https://twitter.com/inugamikorone\n\n---------------------------------------------\n\nころモンTシャツ発売中！\n→ https://booth.pm/ja/items/1908655\n\n---------------------------------------------\n\nころねオリジナル曲、配信中☆\n→ https://korone.streamlink.to/WANDERFUL\n\n---------------------------------------------\n\n※ホロライブプロダクションから未成年の視聴者の方々へのお願い\n[カバー 未成年者の方々へ]で検索してお読みいただくか、下記リンクをご確認の上、お楽しみください。\nhttps://hololivepro.com/request-to-minors/",
+    "channel": "Korone Ch. 戌神ころね",
+    "uploader": "Korone Ch. 戌神ころね",
+    "upload_date": "20260618",
+    "duration_s": 3852,
+    "categories": [
+      "Entertainment"
+    ],
+    "tags": [
+      "ホロライブ",
+      "VTuber",
+      "バーチャルYouTuber",
+      "戌神ころね",
+      "ホロライブゲーマーズ",
+      "hololive",
+      "ゲーム実況",
+      "実況",
+      "スターウォーズ",
+      "マンダロリアン",
+      "グローグー",
+      "ビックリマンチョコ"
+    ],
+    "was_live": true,
+    "live_status": "was_live",
+    "chapters": [],
+    "language": "ja",
+    "webpage_url": "https://www.youtube.com/watch?v=1AhZ1qs2VLA"
+  },
+  "context": {
+    "auto_context": {
+      "card": "This is an archived live stream from June 18, 2026, featuring the VTuber Inugami Korone from hololive. She is opening Bikkuriman stickers themed after Star Wars' The Mandalorian and Grogu, continuing until she collects all 24 types. The tone is casual and entertaining.",
+      "model": "llama.cpp:Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-Q4_K_M",
+      "prompt_version": 1,
+      "generated_at": "2026-07-29T03:30:21.419Z",
+      "token_usage": {
+        "input_tokens": 689,
+        "output_tokens": 71,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "actual_usd": 0
+      }
+    },
+    "context_file": {
+      "sha256": "d52028bb8672ead683aaf296b4609f0b20f010182864264830accd7afb4483d8",
+      "bytes": 9934
+    }
+  },
+  "tracks": {
+    "ja": {
+      "kind": "transcription",
+      "status": "done",
+      "completed_on": "2026-07-29T04:20:21.619Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "64405d703cc913205e241fc380ab4d9a91ac8242",
+      "transcription_model": "ggml-large-v3.bin",
+      "vad_model": "ggml-silero-v6.2.0.bin",
+      "vocal_separation": {
+        "tool": "demucs",
+        "model": "htdemucs"
+      },
+      "repair": {
+        "repetition_cues": 1,
+        "overlong_cues": 6,
+        "gap_cues_recovered": 0,
+        "cues_replaced": 6,
+        "cues_inserted": 22,
+        "cues_snapped": 4,
+        "cues_dropped": 1,
+        "gaps_escalated": 0,
+        "duplicate_runs_collapsed": 0,
+        "cues_clamped": 12
+      },
+      "proofread": {
+        "model": "llama.cpp:Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-Q4_K_M",
+        "prompt_version": 5,
+        "token_usage": {
+          "input_tokens": 23875,
+          "output_tokens": 29594,
+          "cache_creation_input_tokens": 0,
+          "cache_read_input_tokens": 60295,
+          "actual_usd": 0
+        }
+      }
+    },
+    "en": {
+      "kind": "translation",
+      "source": "ja",
+      "status": "done",
+      "completed_on": "2026-07-29T04:20:21.619Z",
+      "error": null,
+      "hytt_version": "0.1.0",
+      "commit": "64405d703cc913205e241fc380ab4d9a91ac8242",
+      "translation_model": "llama.cpp:Gemma4-31B-QAT-Uncensored-HauhauCS-Balanced-Q4_K_M",
+      "token_usage": {
+        "input_tokens": 32385,
+        "output_tokens": 40002,
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 73752,
+        "actual_usd": 0
+      }
+    }
+  },
+  "total_duration_ms": 2876261
+}
